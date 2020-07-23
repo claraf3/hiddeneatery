@@ -1,0 +1,52 @@
+            <div class="dropdown">
+                  <button class="dropbtn">Home</button>  
+            </div>
+            
+            <div class="dropdown">
+                <button class="dropbtn">Japanese</button>
+                <div class="dropdown-content">
+                    <a href="tetsu.shtml">Tetsu Sushi Bar</a>
+                    <a href="video_production.html">Sushi Bar Maumi</a>
+                    <a href="video_production.html">Masayoshi</a>
+                </div>
+            </div>
+            
+            <div class="dropdown">
+                <button class="dropbtn">Italian</button>
+                <div class="dropdown-content">
+                    <a href="professional_translation.html">La Buca</a>
+                    <a href="video_production.html">Marcello Ristorante & Pizzeria</a>
+                    <a href="video_production.html">Via Tevere Pizzeria</a>
+                </div>
+            </div>
+            
+            <div class="dropdown">
+                <button class="dropbtn">Vietnamese</button>
+                <div class="dropdown-content">
+                    <a href="professional_translation.html">Bun Cha Ca Hoang Yen</a>
+                    <a href="video_production.html">Green Lemongrass</a>
+                    <a href="video_production.html">Mr Red Cafe</a>
+                </div>
+            </div>
+            
+             <div class="dropdown">
+                <button class="dropbtn">French</button>
+                <div class="dropdown-content">
+                    <a href="professional_translation.html">Linh Cafe</a>
+                    <a href="video_production.html">Absinthe Bistro</a>
+                    <a href="video_production.html">Au Comptoir</a>
+                </div>
+            </div>
+            
+             <div class="dropdown">
+                <button class="dropbtn">Thai</button>
+                <div class="dropdown-content">
+                    <a href="professional_translation.html">Unchai Restaurant</a>
+                    <a href="video_production.html">Sen Pad Thai</a>
+                    <a href="video_production.html">Au Comptoir</a>
+                </div>
+            </div>
+            
+               <div class="dropdown">
+                <button class="dropbtn">Contact Us</button>
+            </div>
